@@ -1,0 +1,10 @@
+﻿  WarAirplaneBuilder.cpp
+  Quadrupter.cpp
+  Plane.cpp
+  PassangerAirplaneBuilder.cpp
+  Helicopter.cpp
+  BaseBuilder.cpp
+  Aircraft.cpp
+  Generating Code...
+  Plane.vcxproj -> C:\Users\aupetrov\Desktop\Plane\Debug\Plane.exe
+  Plane.vcxproj -> C:\Users\aupetrov\Desktop\Plane\Debug\Plane.pdb (Full PDB)
